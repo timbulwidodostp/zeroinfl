@@ -1,6 +1,8 @@
 # zeroinfl
 Zero-inflated Poisson regression Use zeroinfl With (In) R Software
 
+https://www.youtube.com/watch?v=YllgcNGHOZg
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
